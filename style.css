@@ -30,6 +30,19 @@
 .display-flex{
   display: flex;
 }
+.banner{
+  width: 80%;
+  margin: 0 auto;
+}
+.btn-primary{
+font-size: 1.2rem;
+font-weight: 600;
+color: white;
+background-color: #FF900E;
+border: none;
+border-radius: 8px;
+padding: 20px 25px;
+}
 /* Main styles */
 .navbar{
   width: 80%;
@@ -53,4 +66,26 @@
   text-decoration: none;
   font-weight: 500px;
   font-size: 1.2rem;
+}
+/* banner style started */
+
+.banner-content{
+ width: 70%;
+ margin: 60px auto;
+ text-align: center;
+}
+.banner-title{
+  font-size: 3.5rem;
+  font-weight: 700;
+}
+.description{
+font-size: 1rem;
+line-height: 26px;
+margin: 20px 0px;
+}
+
+.banner img{
+  width: 100%;
+  vertical-align: middle;
+  margin-bottom: 40px;
 }
