@@ -179,7 +179,8 @@
 
 /* Footer area started */
 .footer{
-  padding: 50px 20px;
+  padding: 20px 0px;
+  text-align: center;
 }
 
 /* Responsive Header */
